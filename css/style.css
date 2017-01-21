@@ -1,7 +1,8 @@
 body {
   font-family: 'Kreon', serif;
   font-size: 25px;
-    background-image: url('http://starkaerospace.com/wp-content/uploads/2014/06/background-world-map-1.gif');
+    //background-image: url('http://starkaerospace.com/wp-content/uploads/2014/06/background-world-map-1.gif');
+  background-image: url('https://github.com/naimjeem/wikisearchengine/blob/master/background.gif');
   background-attachment:fixed;
     background-size: 100% auto;
     background-repeat:no-repeat;
